@@ -1,4 +1,4 @@
-# mp3rename
+# mp3_rename
 A small Python3 code I wrote to rename my mp3 files based on their mp3 tags. Windows only.
 You'll need to install a python module called mp3_tagger for this. The installation steps are:
 1) Open commdand prompt as adminstator
